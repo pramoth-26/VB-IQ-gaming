@@ -1,0 +1,35 @@
+D:\programs\visual basic\ex1\bin\Debug\net6.0-windows\ex1.exe
+D:\programs\visual basic\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+D:\programs\visual basic\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+D:\programs\visual basic\ex1\bin\Debug\net6.0-windows\ex1.dll
+D:\programs\visual basic\ex1\bin\Debug\net6.0-windows\ex1.pdb
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.vbproj.AssemblyReference.cache
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.Form1.resources
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.vbproj.GenerateResource.cache
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.vb
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.vbproj.CoreCompileInputs.cache
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.dll
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\refint\ex1.dll
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.pdb
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
+D:\programs\visual basic\ex1\obj\Debug\net6.0-windows\ref\ex1.dll
+D:\programs\ex1\bin\Debug\net6.0-windows\ex1.exe
+D:\programs\ex1\bin\Debug\net6.0-windows\ex1.deps.json
+D:\programs\ex1\bin\Debug\net6.0-windows\ex1.runtimeconfig.json
+D:\programs\ex1\bin\Debug\net6.0-windows\ex1.dll
+D:\programs\ex1\bin\Debug\net6.0-windows\ex1.pdb
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.vbproj.AssemblyReference.cache
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.Form1.resources
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.vbproj.GenerateResource.cache
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfoInputs.cache
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.AssemblyInfo.vb
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.vbproj.CoreCompileInputs.cache
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.dll
+D:\programs\ex1\obj\Debug\net6.0-windows\refint\ex1.dll
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.pdb
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.genruntimeconfig.cache
+D:\programs\ex1\obj\Debug\net6.0-windows\ref\ex1.dll
+D:\programs\ex1\obj\Debug\net6.0-windows\ex1.Resources.resources
